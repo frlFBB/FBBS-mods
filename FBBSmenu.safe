@@ -1,5 +1,3 @@
-# FBBS-mods
-FBBs mod menu
 using FBBMenu.Classes;
 using FBBMenu.Mods;
 using FBBMenu.Mods.Spammers;
